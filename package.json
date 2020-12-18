@@ -1,6 +1,6 @@
 {
   "name": "is-is-useless",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a helpful way to check if a function is is-useless",
   "main": "index.js",
   "scripts": {

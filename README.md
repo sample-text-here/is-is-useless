@@ -5,7 +5,8 @@ some functions are `is-useless`, and some are not. this package provides a helpf
 
 installation: `npm i is-is-useless`
 
-usage: ```js
+usage: 
+```js
 const isUseless = require("is-useless");
 const isIsUseless = require("is-is-useless");
 
