@@ -1,0 +1,32 @@
+dependencies:
+  is-useless: 1.1.1
+lockfileVersion: 5.2
+packages:
+  /is-true/0.1.1:
+    dependencies:
+      isobject: 2.1.0
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    resolution:
+      integrity: sha1-24Y9qJaJKLuGpNpKnG5lZLVz280=
+  /is-useless/1.1.1:
+    dependencies:
+      is-true: 0.1.1
+    dev: false
+    resolution:
+      integrity: sha512-E7uBjhgZze/wIMAup+s53E/oRLzrdZqdALUsCcU5lLSvFcd7vzRrUcnbTBSQ1Sl7iWk4mm2bhA6M6EiaxTTQSw==
+  /isarray/1.0.0:
+    dev: false
+    resolution:
+      integrity: sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE=
+  /isobject/2.1.0:
+    dependencies:
+      isarray: 1.0.0
+    dev: false
+    engines:
+      node: '>=0.10.0'
+    resolution:
+      integrity: sha1-8GVWEJaj8dou9GJy+BXIQNh+DIk=
+specifiers:
+  is-useless: ^1.1.1

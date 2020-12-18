@@ -1,0 +1,25 @@
+{
+  "name": "is-is-useless",
+  "version": "1.0.0",
+  "description": "a helpful way to check if a function is is-useless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sample-text-here/is-is-useless.git"
+  },
+  "keywords": [
+    "is-useless"
+  ],
+  "author": "sample-text-here",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sample-text-here/is-is-useless/issues"
+  },
+  "homepage": "https://github.com/sample-text-here/is-is-useless#readme",
+  "dependencies": {
+    "is-useless": "^1.1.1"
+  }
+}
